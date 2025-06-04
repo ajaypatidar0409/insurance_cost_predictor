@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("Medical Insurance Cost Prediction")
-
+st.set_page_config(page_title = "Insurance_predictor", page_icon = "😊",layout = "centered")
 st.markdown("""
 Welcome to the **Medical Insurance Cost Prediction** app.
 
